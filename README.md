@@ -10,6 +10,7 @@
 🎐 𝘊+𝖧 ──.✦ 𝘞2𝗂 ﮩ٨ﮩ٨ـﮩ 𝘐𝗇𝗍  ꯭🐛
 
 🪸  𝘚𝗉𝖺𝗇𝗂𝗌𝗁/𝘗𝗈𝗋𝗍𝗎𝗀𝗎𝖾𝗌 𝘚𝖾𝗋𝗏𝖾𝘳𝘴 
+
 <div data-importer="music" align="center">
   <a href="https://open.spotify.com/user/312esegxcq5qqndvdsbgtzcal2hm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=312esegxcq5qqndvdsbgtzcal2hm&count=1&unique=true" alt="Spotify recently played"  />
