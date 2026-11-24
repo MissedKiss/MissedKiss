@@ -1,4 +1,4 @@
-  🌬️ 𝘊𝖾𝗈 𝖮𝖿 𝖦𝗋𝗈𝗆𝖺𝗌𝗁⊹ ࣪⛵﹏
+  ⚓ 𝘊𝖾𝗈 𝖮𝖿 𝖦𝗋𝗈𝗆𝖺𝗌𝗁⊹ ࣪⛵﹏
 <br clear="both">
 
 <div data-importer="image" align="center">
